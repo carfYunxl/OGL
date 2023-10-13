@@ -1,2 +1,2 @@
 # OGL
-Learn OpenGL
+build some records of learning OpenGL
